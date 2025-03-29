@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YonderL"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,8 +18,10 @@ Focusing
 My technical toolkit
 ======
 💻 Programming: Python (PyTorch, OpenCV), C++, ROS
-🛠️ Frameworks: TensorFlow, Gazebo, MATLAB/Simulink
-🔬 Research Methods: SLAM implementation, GAN-based image synthesis, reinforcement learning pipelines
+
+🛠️ Frameworks: Pytorch, MATLAB/Simulink
+
+🔬 Research Methods: GAN-based image synthesis, SLAM implementation
 
 Future
 ======
