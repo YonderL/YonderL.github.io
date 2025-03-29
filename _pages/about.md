@@ -12,7 +12,9 @@ Hi! I'm Yang Liu, a junior undergraduate student majoring in Robotics Engineerin
 Focusing
 ======
 🔭 Robotic Vision Systems: Developing computer vision algorithms for object recognition and scene reconstruction in dynamic environments
+
 🧠 AI-Driven Control: Exploring neural network architectures for adaptive robot motion planning and manipulation tasks
+
 🎨 Multimodal Generation: Investigating stable diffusion models for robotic simulation scene generation and dataset augmentation
 
 My technical toolkit
