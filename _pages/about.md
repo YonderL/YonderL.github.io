@@ -15,7 +15,7 @@ Focusing
 
 🧠 AI-Driven Control: Exploring neural network architectures for adaptive robot motion planning and manipulation tasks
 
-🎨 Multimodal Generation: Investigating stable diffusion models for robotic simulation scene generation and dataset augmentation
+🎯 Image Generation and translation: Image generation and translation models (e.g., GANs/VAEs)
 
 My technical toolkit
 ======
