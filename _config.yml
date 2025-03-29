@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "China"
 site_theme               : "default"
-title                    : "Yang Liu"
+title                    : "YonderL"
 title_separator          : "-"
 name                     : &name "YonderL"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "YonderL/YonderL.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zhengjian.jpg"
   name             : "Yang Liu"
   pronouns         : # example: "she/her"  
   bio              : "A student of Hunan University, majoring in Robotics."
