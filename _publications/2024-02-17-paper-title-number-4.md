@@ -3,7 +3,7 @@ title: "INR-ECGAN: An Enhanced Conditional GAN with Implicit Neural Representati
 collection: publications
 category: conferences
 permalink: /publication/2024-02-13-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is about SAR-to-Optical image translation using GANs and implicit neural representation.'
 date: 2024-02-13
 venue: 'China Automation Congress (CAC)'
 paperurl: 'http://Yonderl.github.io/files/INR-ECGAN.pdf'
