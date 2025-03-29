@@ -6,7 +6,7 @@ permalink: /publication/2024-02-13-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-13
 venue: 'China Automation Congress (CAC)'
-paperurl: 'http://Yonderl.github.io/files/INR_ECGAN.pdf'
+paperurl: 'http://Yonderl.github.io/files/INR-ECGAN.pdf'
 bibtexurl: 'http://Yonderl.github.io/files/INR-ECGAN.bib'
 citation: 'Yang Liu, You. (2024). &quot;Paper Title Number 1.&quot; <i>China Automation Congress (CAC) 1</i>'
 ---
